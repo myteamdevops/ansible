@@ -31,4 +31,4 @@ vagrant up
 ```
 ansible vagrant -i inventory -m ping
 ```
-# ansible
+
