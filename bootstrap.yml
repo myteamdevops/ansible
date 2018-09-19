@@ -1,0 +1,6 @@
+- hosts: tag_role_mic_nginx
+  gather_facts: False
+
+  tasks:
+  - name: install python 2
+    raw: test -e /usr/bin/python || (apt -y update && apt install -y python-minimal)
