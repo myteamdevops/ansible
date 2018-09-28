@@ -17,7 +17,7 @@ $ source env/bin/activate
 $ pip3 install ansible
 ```
 
-4. Install [Vagrant](https://www.vagrantup.com)
+4. Install [Vagrant](https://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org)
 
 
 ## Usage
